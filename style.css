@@ -61,6 +61,8 @@
 
 .right-story-box1 {
     background-image: url(./src/img/Rectangle\ 16.png);
+    background-size: contain;
+    background-repeat: no-repeat;
     width: 100%;
     height: 847px;
     position: relative;
@@ -85,9 +87,7 @@
     position: absolute;
 }
 
-.hr-h {
-    
-}
+.hr-h {}
 
 .story-hr .hr-hr {
     background-color: red;
